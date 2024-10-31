@@ -15,7 +15,7 @@ $(document).ready(function(){
 </head>
 <body>
 
-<p>If you click on the "Hide" button, I will disappear.</p>
+<p>If you click on the "Hide" button, I will disappear. Surprise!</p>
 
 <button id="hide">Hide</button> <!--Botón esconder-->
 <button id="show">Show</button> <!--Botón mostrar--> 
