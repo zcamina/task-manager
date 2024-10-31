@@ -20,5 +20,9 @@ $(document).ready(function(){
 <button id="hide">Hide</button> <!--Botón esconder-->
 <button id="show">Show</button> <!--Botón mostrar--> 
 
+<button id="hide">Hide</button>
+<button id="show">Show</button>
+
+
 </body>
 </html>
