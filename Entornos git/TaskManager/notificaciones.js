@@ -18,7 +18,7 @@ $(document).ready(function(){
 <p>If you click on the "Hide" button, I will disappear.</p>
 
 <button id="hide">Hide</button>
-
+<button id="show">Show</button>
 
 </body>
 </html>
